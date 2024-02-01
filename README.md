@@ -19,7 +19,7 @@ La aplicación está desarrollada en Swift y utiliza el marco de trabajo UIKit p
 
 ## Créditos
 
-Este proyecto fue creado siguiendo un tutorial de [mouredev](https://www.youtube.com/c/mouredev).
+Este proyecto fue creado siguiendo un tutorial de [mouredev](https://www.youtube.com/@mouredev).
 
 ## Licencia
 
